@@ -1,14 +1,14 @@
-# Blinkit End-to-End Business Analytics Platform
+Blinkit End-to-End Business Analytics Platform
 
-## Overview
+Overview
 
 This project analyzes Blinkit's business operations using multiple datasets covering sales, customers, products, inventory, delivery performance, marketing campaigns, and customer feedback.
 
 The objective is to generate actionable business insights through data analysis, KPI tracking, customer segmentation, operational analytics, and visualization.
 
----
 
-## Dataset Summary
+
+ Dataset Summary
 
 | Dataset             | Records |
 | ------------------- | ------- |
@@ -19,9 +19,9 @@ The objective is to generate actionable business insights through data analysis,
 | Marketing Campaigns | 5,400   |
 | Customer Feedback   | 5,000   |
 
----
 
-## Technologies Used
+
+Technologies Used
 
 * Python
 * SQL
@@ -33,83 +33,83 @@ The objective is to generate actionable business insights through data analysis,
 * Google Colab
 * GitHub
 
----
 
-## Key Business Metrics
 
-### Revenue Analytics
+Key Business Metrics
+
+Revenue Analytics
 
 * Total Revenue: ₹49.72 Lakhs
 * Total Orders: 5,000
 * Average Order Value: ₹994.48
 
-### Customer Analytics
+Customer Analytics
 
 * Total Customers: 2,500
 * Customer Segmentation Analysis
 * Customer Lifetime Value Analysis
 
-### Delivery Analytics
+Delivery Analytics
 
 * Average Delivery Delay: 4.44 Minutes
 * On-Time Deliveries: 69.4%
 * Delayed Deliveries: 30.6%
 
-### Marketing Analytics
+Marketing Analytics
 
 * Total Marketing Spend: ₹1.63 Crore
 * Revenue Generated: ₹3.22 Crore
 * Average ROAS: 2.74x
 
-### Customer Feedback Analytics
+Customer Feedback Analytics
 
 * Average Rating: 3.34 / 5
 * Sentiment Analysis
 * Customer Satisfaction Analysis
 
----
 
-## Analytics Modules
 
-### Sales Analytics
+Analytics Modules
+
+Sales Analytics
 
 * Revenue Analysis
 * Order Analysis
 * Category Performance
 * Product Performance
 
-### Customer Analytics
+Customer Analytics
 
 * Customer Segmentation
 * Customer Value Analysis
 * Top Customers Identification
 
-### Delivery Analytics
+Delivery Analytics
 
 * Delay Analysis
 * Delivery Performance Monitoring
 
-### Inventory Analytics
+Inventory Analytics
 
 * Inventory Tracking
 * Damaged Stock Analysis
 * Category-wise Inventory Loss Analysis
 
-### Marketing Analytics
+Marketing Analytics
 
 * Campaign Performance Analysis
 * Channel Performance Analysis
 * Return on Ad Spend (ROAS)
 
-### Customer Experience Analytics
+Customer Experience Analytics
 
 * Feedback Analysis
 * Sentiment Analysis
 * Rating Analysis
 
----
 
-## Key Insights
+
+Key Insights
 
 * Dairy & Breakfast generated the highest category revenue.
 * Vitamins and Pet Treats were among the highest revenue-generating products.
@@ -118,9 +118,9 @@ The objective is to generate actionable business insights through data analysis,
 * Customer ratings averaged 3.34/5 with balanced sentiment distribution.
 * Inventory analysis identified category-wise loss patterns across 75,000+ inventory records.
 
----
 
-## Project Structure
+
+Project Structure
 
 blinkit-business-analytics-platform/
 
@@ -134,9 +134,9 @@ blinkit-business-analytics-platform/
 
 └── images/
 
----
 
-## Future Improvements
+
+Future Improvements
 
 * Interactive Power BI Dashboard
 * Customer Churn Prediction
@@ -144,9 +144,44 @@ blinkit-business-analytics-platform/
 * Recommendation System
 * Real-Time Analytics Pipeline
 
----
+Project Visualizations
 
-## Author
+Monthly Revenue Trend
+
+![Monthly Revenue Trend](images/revenue_trend.png)
+
+
+
+Delivery Delay Distribution
+
+![Delivery Delay Distribution](images/delivery_delay_distribution.png)
+
+
+
+Customer Segment Distribution
+
+![Customer Segment Distribution](images/customer_segment_distribution.png)
+
+
+
+Average Order Value by Segment
+
+![Average Order Value by Segment](images/avg_order_value_by_segment.png)
+
+
+Delivery Status Distribution
+
+![Delivery Status Distribution](images/delivery_status_distribution.png)
+
+
+
+Top Products by Revenue
+
+![Top Products by Revenue](images/top_products_by_revenue.png)
+
+
+
+Author
 
 Samarth Vatsal
 
