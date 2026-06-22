@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files
+
+*.csv
+
+# MacOS
+
+.DS_Store
+
+# Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Images generated during analysis (optional)
+
+*.png
+
